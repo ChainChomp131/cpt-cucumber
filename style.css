@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 16px;
+  background: #fdf3dc;
+  color: #3b2a1a;
+  font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 8px 0 0;
+  font-size: 40px;
+  color: #3f8f3a;
+}
+
+.tagline {
+  margin: 4px 0 16px;
+}
+
+canvas {
+  /* the canvas is 480x640 inside, this just shrinks it on small screens */
+  max-width: 100%;
+  max-height: 75vh;
+  border: 4px solid #3b2a1a;
+  border-radius: 12px;
+  background: #ffffff;
+  touch-action: none;
+}
+
+.help {
+  font-size: 14px;
+  opacity: 0.8;
+}
