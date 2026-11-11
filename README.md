@@ -81,7 +81,6 @@ It's all in `game.js`. There are comments.
 - A new cat. Replace `assets/mascot.png`.
 
 ## Who
-
-[@ChainChomp131](https://x.com/ChainChomp131)
+You might want to follow me. [@ChainChomp131](https://x.com/ChainChomp131)
 
 There's even more to be seen.
